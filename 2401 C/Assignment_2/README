@@ -1,0 +1,10 @@
+Caden Snelling
+101196193
+
+The purpose of the program is to be able to encrypt or decrypt text using an integer 1-15 as a key
+
+The only source file is a2-posted.c
+
+To compile the program open the terminal in the correct directory and type "gcc -o a2 a2-posted.c" then to run the program type "./a2"
+
+Once the program is running follow the onscreen prompts for what values to enter, when entering ciphertext finish the set of values with -1 to continue the program.

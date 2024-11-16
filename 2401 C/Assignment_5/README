@@ -1,0 +1,13 @@
+Caden Snelling
+101196193
+
+Purpose: Run a randomized game where Timmy and Harold try to escape the hollow while birds and flying monkeys try to attack them, processed through a server outputed to clients to see
+
+Files: One header file defs.h and 7 source files main.c connect.c escape.c flyer.c heroes.c hollow.c spectator.c
+
+To compile the code type "make"
+
+To run the code in the server terminal type "./a5"
+
+To run the code in the client terminal type "./a5 127.0.0.1"
+

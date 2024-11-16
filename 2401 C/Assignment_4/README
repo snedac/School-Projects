@@ -1,0 +1,9 @@
+Caden Snelling
+101196193
+
+Files: The source files are main.c patrons.c restaurant.c resv.c load.c with one header file defs.h
+
+To compile in the correct spot in your directory type "gcc -o a4 main.c patrons.c restaurant.c resv.c load.c"
+To run the program type "./a4" after that follow on screen pompts for how to work the program
+
+ 

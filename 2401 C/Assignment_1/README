@@ -1,0 +1,11 @@
+Caden Snelling
+
+101196913
+
+Purpose: Run a game with T and H that is rnadomly geenrated for their movement as well as the birds trying to attack them, 
+once the game ends state wether they both escaped or if either died
+
+The only file used is a1-posted.c
+
+To compile and launch go to the correct directory in your terminal and type "gcc -o exename a1-posted.c" then to run the program
+type "./a1"

@@ -1,0 +1,12 @@
+Caden Snelling
+101196193
+
+Purpose: A program that will print a set of books in order by author or print the top rated books based on choice, as well as let the user add books with the correct information
+
+Files: main.c, books.c, load.c and club.c are all the source files as well as one header file defs.h 
+
+Compilation: type "gcc -o a3 main.c books.c load.c club.c" to compile the code
+
+Launch: type "./a3" to launch the code then follow the onscreen prompts for how to use the code while it's running
+
+
